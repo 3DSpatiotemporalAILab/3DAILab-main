@@ -5,7 +5,7 @@ header-img: "/img/Zhuhai.jpg"    # img/post-bg-desk.jpg
 email: 
 description: "3D Spatio-Temporal AI Laboratory"
 keyword: ""
-url: "https://3dspatiotemporalailab.github.io"          # your host, for absolute URL
+url: "https://3DSpatiotemporalAILab.github.io"          # your host, for absolute URL
 baseurl: "/3DAILab-main"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
