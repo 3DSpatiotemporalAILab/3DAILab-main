@@ -6567,12 +6567,12 @@ button.close {
 
 /* 控制导航栏整体字体大小 */
 .navbar {
-  font-size: 18px; /* 你想要的字号 */
+  font-size: 36px; /* 你想要的字号 */
 }
 
 /* 控制导航栏右侧菜单项（如HOME、GROUPS）的字体大小和颜色 */
 .navbar-nav > li > a {
-  font-size: 18px; /* 你想要的字号 */
+  font-size: 36px; /* 你想要的字号 */
   color: #1976d2;  /* 你想要的颜色 */
   font-weight: bold;
 }
