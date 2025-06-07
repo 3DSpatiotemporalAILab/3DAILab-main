@@ -33,7 +33,7 @@
 .navbar.navbar-scrolled .navbar-nav > li.active > a,
 .navbar.navbar-scrolled .navbar-nav > li > a:hover,
 .navbar.navbar-scrolled .navbar-nav > li > a:focus {
-  color: #1976d2 !important;
+  color: rgb(0, 133, 161) !important;
   background-color: transparent !important;
 }
 
