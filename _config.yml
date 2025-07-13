@@ -1,7 +1,9 @@
 # Site settings
 title: 3DAILab
 SEOTitle: 3DAILab
-header-img: "/img/Zhuhai.jpg"    # img/post-bg-desk.jpg
+# header-img: "/img/Zhuhai.jpg"    # img/post-bg-desk.jpg
+# header-img: "/img/hp_img1.jpg"
+header-img: "/img/hp_img2.jpg"
 email: 
 description: "3D Spatio-Temporal AI Laboratory"
 keyword: ""
